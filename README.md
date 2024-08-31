@@ -1,2 +1,3 @@
 # apnacollage-demo
-this is my frirst project
+this is my first project
+Auther-pranjalbhati
